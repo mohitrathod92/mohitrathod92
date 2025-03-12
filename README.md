@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitrathod92&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrathod92" /> </p>
 
-- 🌱 I’m currently learning and Improving my skills **React.js, Framer and Next.js**
+- 🌱 I’m currently learning and Improving these skills **React.js, Framer and Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
