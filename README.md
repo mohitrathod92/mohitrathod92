@@ -45,7 +45,7 @@ Bringing ideas to life with After Effects motion, style, and creativity in every
     <img src="https://cdn.simpleicons.org/unrealengine" width="40" height="40"/>
   </a>
 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobeaftereffects" width="40" height="40"/>
-  </a>
+ <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+</a>
 </p>
