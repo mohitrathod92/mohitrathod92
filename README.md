@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Rathod</h1>
-<h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions from Mumbai, India 🇮🇳</h3>
+<h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohitrathod92&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrathod92" />
 </p>
