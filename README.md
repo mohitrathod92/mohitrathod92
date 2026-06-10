@@ -53,6 +53,25 @@
 
 ---
 
+**Languages I have used**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" />
+</p>
+
+---
+
+**Technologies I work with**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,git,github&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,opencv,vscode,figma&theme=dark" />
+</p>
+
+---
+
 **🚀 Projects**
 
 [![GuardDrive Insight](https://img.shields.io/badge/-🚗&nbsp;&nbsp;GuardDrive&nbsp;Insight-000000?style=flat)](https://github.com/mohitrathod92/guarddrive-insight)
@@ -65,7 +84,7 @@
 
 **🏆 Achievements**
 
-🥈 **Runner-up — Craftathon 2026**, Ganpat University, Ahmedabad
+🥈 **Runner-up — Craftathon 2026**, Gandhinagar University, Ahmedabad
 > GuardDrive Insight — Real-time driver drowsiness detection using Python & OpenCV
 
 ---
