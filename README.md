@@ -17,39 +17,37 @@
 📫 Reach me at mohitrathod92@gmail.com
 ⚡ Fun fact: I built a computer vision driver safety system using Python and OpenCV
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+### 👨‍💻 About Me
 
-[![Portfolio](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitrathod92)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrathod92)
-[![YouTube](https://img.shields.io/badge/-YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@infinityediit)
+```bash
+const mohit = {
+  role:       "Full Stack Developer",
+  location:   "Kalyan, Maharashtra 🇮🇳",
+  learning:   ["React Native", "NestJS", "System Design"],
+  experience: "6 months @ Reweb Digital",
+  projects:   4,
+  achievement:"Runner-up @ Craftathon 2026",
+  aiTools:    ["GitHub Copilot", "ChatGPT"],
+  funFact:    "Built a driver safety system with Python & OpenCV 🚗"
+}
+```
 
+- 🔭 Currently working on **AI-integrated full-stack web apps**
+- 🌱 Learning **React Native · NestJS · System Design**
+- 🚀 Independently built and deployed **4 full-stack projects**
+- 🤖 Use **AI tools daily** in my dev workflow
+- 📫 Reach me at **mohitrathod740@gmail.com**
+
+<div align="center">
+  [![Portfolio](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitrathod92)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrathod92)
+  [![YouTube](https://img.shields.io/badge/-YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@infinityediit)
+</div>
 
 ---
 
-**Languages I have used**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-
----
-
-**Technologies I work with**
-
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=postman&logoColor=FF6C37)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=5C3EE8)
 
 ---
 
