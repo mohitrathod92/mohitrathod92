@@ -17,34 +17,11 @@
 📫 Reach me at mohitrathod92@gmail.com
 ⚡ Fun fact: I built a computer vision driver safety system using Python and OpenCV
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### 👨‍💻 About Me
 
-```bash
-const mohit = {
-  role:       "Full Stack Developer",
-  location:   "Kalyan, Maharashtra 🇮🇳",
-  learning:   ["React Native", "NestJS", "System Design"],
-  experience: "6 months @ Reweb Digital",
-  projects:   4,
-  achievement:"Runner-up @ Craftathon 2026",
-  aiTools:    ["GitHub Copilot", "ChatGPT"],
-  funFact:    "Built a driver safety system with Python & OpenCV 🚗"
-}
-```
-
-- 🔭 Currently working on **AI-integrated full-stack web apps**
-- 🌱 Learning **React Native · NestJS · System Design**
-- 🚀 Independently built and deployed **4 full-stack projects**
-- 🤖 Use **AI tools daily** in my dev workflow
-- 📫 Reach me at **mohitrathod740@gmail.com**
-
-<div align="center">
   [![Portfolio](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitrathod92)
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrathod92)
   [![YouTube](https://img.shields.io/badge/-YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@infinityediit)
-</div>
 
 ---
 
