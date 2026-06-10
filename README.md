@@ -1,6 +1,5 @@
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Mohit+Rathod;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Open+to+Work+🚀)
 
-<h1 align="center">Hi 👋, I'm Mohit Rathod</h1>
 <h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohitrathod92&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrathod92" />
@@ -69,11 +68,4 @@
 
 ---
 
-<h1>
-    <a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=mohitrathod92&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrathod92&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-    </a>
-</h1>
-
----
 
