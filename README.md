@@ -1,3 +1,5 @@
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Mohit+Rathod;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Open+to+Work+🚀)
+
 <h1 align="center">Hi 👋, I'm Mohit Rathod</h1>
 <h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
 <p align="left">
@@ -15,31 +17,11 @@
 ⚡ Fun fact: I built a computer vision driver safety system using Python and OpenCV
 
 
-🚀 Projects
-ProjectDescriptionStackGuardDrive InsightReal-time drowsiness detection using computer visionPython, OpenCVStationeryHubFull-stack e-commerce platform with admin panelMERN, TypeScriptTaskFlowKanban team productivity app with drag-and-dropReact, Node.js, MongoDBBookwormLibrary management system — live in productionMERN Stack
-
-
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Mohit+Rathod;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Open+to+Work+🚀)
 
 [![Portfolio](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitrathod92)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrathod92)
 [![YouTube](https://img.shields.io/badge/-YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@infinityediit)
 
----
-
-### 👋 About Me
-
-🎓 Pursuing **B.Sc. Information Technology** @ Sahyog College, University of Mumbai (2023–2026)
-
-💼 Ex **Frontend Developer Intern** @ Reweb Digital
-
-🏆 **Runner-up** at Craftathon 2026, Ganpat University, Ahmedabad
-
-🚀 Building **NexFlow** — a visual full-stack website builder
-
-💡 Passionate about building real-world web apps with clean, efficient code
-
-📍 Based in **Kalyan, Maharashtra, India**
 
 ---
 
@@ -95,6 +77,3 @@ ProjectDescriptionStackGuardDrive InsightReal-time drowsiness detection using co
 
 ---
 
-Credits: [mohitrathod92](https://github.com/mohitrathod92)
-
-Last Edited on: 10/06/2026
