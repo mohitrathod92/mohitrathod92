@@ -19,7 +19,7 @@
 ProjectDescriptionStackGuardDrive InsightReal-time drowsiness detection using computer visionPython, OpenCVStationeryHubFull-stack e-commerce platform with admin panelMERN, TypeScriptTaskFlowKanban team productivity app with drag-and-dropReact, Node.js, MongoDBBookwormLibrary management system — live in productionMERN Stack
 
 
-  [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Mohit%20Rathod&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descAlign=50)](https://github.com/mohitrathod92)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Mohit+Rathod;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Open+to+Work+🚀)
 
 [![Portfolio](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitrathod92)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitrathod92)
