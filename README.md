@@ -2,12 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,100:00F5FF&height=200&section=header&text=Mohit%20Rathod&fontSize=50&fontColor=00F5FF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descAlign=50&descColor=ffffff" />
 </div>
 
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&background=0D0D0D&center=true&vCenter=true&width=800&height=70&lines=Hi+👋+I'm+Mohit+Rathod;Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Open+to+Work+🚀)
-
-</div>
 <h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohitrathod92&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrathod92" />
