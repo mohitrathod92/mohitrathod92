@@ -4,10 +4,11 @@
 
 <h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
 
-👨‍💻 About Me
-🔭 I'm currently working on AI-integrated full-stack web applications
-🌱 I'm currently learning React Native, NestJS, and System Design
-📫 Reach me at mohitrathod92@gmail.com
+🧛🏻 About Me
+- 🔭 Getting errors since years.
+- 📚 I'm currently learning low-level stuffs..
+- 🛸 Goal : Developing production-ready apps...
+- ⚡ Open to work....
 
 
 
