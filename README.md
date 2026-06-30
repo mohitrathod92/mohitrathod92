@@ -10,12 +10,11 @@
 👨‍💻 About Me
 
 🔭 I'm currently working on AI-integrated full-stack web applications
+
 🌱 I'm currently learning React Native, NestJS, and System Design
-💼 6 months of professional experience as a Frontend Developer at Reweb Digital
-🚀 Independently built and deployed 4 full-stack projects end-to-end
-🤖 I use AI tools like GitHub Copilot and ChatGPT daily in my workflow
+
 📫 Reach me at mohitrathod92@gmail.com
-⚡ Fun fact: I built a computer vision driver safety system using Python and OpenCV
+
 
 
 
