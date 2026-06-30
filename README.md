@@ -26,9 +26,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" />
 </p>
 
----
 
-**Technologies I work with**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,git,github&theme=dark" />
