@@ -1,5 +1,4 @@
-![Uploading PESQn8A.png…]()
-
+<img width="2000" height="400" alt="PESQn8A" src="https://github.com/user-attachments/assets/f3efc723-28fb-4159-9f31-8a75eef37335" />
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,100:00F5FF&height=200&section=header&text=Mohit%20Rathod&fontSize=50&fontColor=00F5FF&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=60&descAlign=50&descColor=ffffff" />
 </div>
@@ -40,24 +39,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,opencv,vscode,figma&theme=dark" />
 </p>
-
----
-
-**🚀 Projects**
-
-[![GuardDrive Insight](https://img.shields.io/badge/-🚗&nbsp;&nbsp;GuardDrive&nbsp;Insight-000000?style=flat)](https://github.com/mohitrathod92/guarddrive-insight)
-[![StationeryHub](https://img.shields.io/badge/-🛒&nbsp;&nbsp;StationeryHub-000000?style=flat)](https://github.com/mohitrathod92/StationeryHub)
-[![TaskFlow](https://img.shields.io/badge/-📋&nbsp;&nbsp;TaskFlow-000000?style=flat)](https://github.com/mohitrathod92)
-[![Library Management System](https://img.shields.io/badge/-📚&nbsp;&nbsp;Library&nbsp;Management-000000?style=flat)](https://github.com/mohitrathod92/Library-Management-System)
-[![NexFlow](https://img.shields.io/badge/-⚡&nbsp;&nbsp;NexFlow&nbsp;(WIP)-000000?style=flat)](https://github.com/mohitrathod92)
-
----
-
-**🏆 Achievements**
-
-🥈 **Runner-up — Craftathon 2026**, Gandhinagar University, Ahmedabad
-> GuardDrive Insight — Real-time driver drowsiness detection using Python & OpenCV
-
----
-
-
