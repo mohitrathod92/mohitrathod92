@@ -3,16 +3,10 @@
 </div>
 
 <h3 align="center">MERN Stack Developer · Building full-stack web apps and real-world solutions.</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohitrathod92&label=Profile%20views&color=0e75b6&style=flat" alt="mohitrathod92" />
-</p>
 
 👨‍💻 About Me
-
 🔭 I'm currently working on AI-integrated full-stack web applications
-
 🌱 I'm currently learning React Native, NestJS, and System Design
-
 📫 Reach me at mohitrathod92@gmail.com
 
 
