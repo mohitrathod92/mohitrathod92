@@ -1,10 +1,12 @@
 <img width="2000" height="400" alt="PESQn8A" src="https://github.com/user-attachments/assets/f3efc723-28fb-4159-9f31-8a75eef37335" />
 
+
 🧛🏻 About Me
-- 🔭 Getting errors since years.
-- 📚 I'm currently learning low-level stuffs..
-- 🛸 Goal : Developing production-ready apps...
-- ⚡ Open to work....
+
+🔭 Getting errors since years.
+📚 I'm currently learning low-level stuffs..
+🛸 Goal : Developing production-ready apps...
+⚡ Open to work....
 
 
 
